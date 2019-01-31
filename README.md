@@ -1,6 +1,6 @@
 # Antispam
 
-git clone https://github.com/ParsDev/antispam.git
+git clone https://github.com/SpArTiapi/kkk
 
 set token in launch.sh
 set your ID and Bot ID and Channel ID in bot.lua
